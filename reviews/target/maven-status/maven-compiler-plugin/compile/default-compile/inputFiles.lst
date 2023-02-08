@@ -1,0 +1,9 @@
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/services/ReviewService.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/model/Review.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/federation/GraphQLJavaToolsConfiguration.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/resolvers/ShowResolver.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/resolvers/ShowReferenceResolver.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/model/Show.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/ReviewsApp.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/federation/FederatedSchema.java
+/Users/venkatathota/IdeaProjects/NetflixDGS/graphql-java-kickstart-federation-example-main/reviews/src/main/java/com/example/demo/query/ReviewsQueryResolver.java

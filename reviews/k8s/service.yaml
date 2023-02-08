@@ -1,0 +1,11 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: reviews
+spec:
+  selector:
+    app: reviews
+  ports:
+    - port: 8082
+  type: ClusterIP
+

@@ -1,0 +1,17 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: shows
+spec:
+  selector:
+    matchLabels:
+      app: shows
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: shows
+    spec:
+      containers:
+        - name: shows
+          image: chthota/shows:latest

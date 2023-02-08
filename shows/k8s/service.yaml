@@ -1,0 +1,11 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: shows
+spec:
+  selector:
+    app: shows
+  ports:
+    - port: 8081
+  type: ClusterIP
+
