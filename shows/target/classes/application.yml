@@ -1,7 +1,0 @@
-server:
-  servlet.contextPath: /shows
-  port: 8081
-
-
-
-

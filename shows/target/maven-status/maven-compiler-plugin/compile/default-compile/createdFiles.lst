@@ -1,5 +1,0 @@
-com/example/demo/federation/FederatedSchema.class
-com/example/demo/query/ShowsQueryResolver.class
-com/example/demo/model/Show.class
-com/example/demo/ShowsApp.class
-com/example/demo/services/ShowsService.class
