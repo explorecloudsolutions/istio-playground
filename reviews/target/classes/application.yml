@@ -1,3 +1,0 @@
-server:
-  servlet.contextPath: /reviews
-  port: 8082
